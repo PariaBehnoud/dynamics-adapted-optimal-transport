@@ -4,7 +4,7 @@ Code supporting the manuscript **"Dynamics-Adapted Optimal Transport for Driven 
 
 ## Contents
 
-- `one_particle.py`  
+- `One_Particle.py`  
   One-bead harmonic validation against the exact Ornstein–Uhlenbeck solution and Langevin simulation.  
   Produces the one-bead validation figure and CSV summaries.
 
